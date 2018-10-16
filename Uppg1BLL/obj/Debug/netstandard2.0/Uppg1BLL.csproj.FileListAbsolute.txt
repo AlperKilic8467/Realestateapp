@@ -1,0 +1,12 @@
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\bin\Debug\netstandard2.0\Uppg1BLL.deps.json
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\bin\Debug\netstandard2.0\Uppg1BLL.dll
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\bin\Debug\netstandard2.0\Uppg1BLL.pdb
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.csprojAssemblyReference.cache
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.AssemblyInfoInputs.cache
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.AssemblyInfo.cs
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.dll
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.pdb
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\bin\Debug\netstandard2.0\Uppg1DAL.dll
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\bin\Debug\netstandard2.0\Uppg1DAL.pdb
+C:\Users\Alper\Desktop\c#\Uppg1UI\Uppg1BLL\obj\Debug\netstandard2.0\Uppg1BLL.csproj.CopyComplete
